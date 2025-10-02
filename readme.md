@@ -1,1 +1,1 @@
-#simple landing page
+#simple landing design- for exploring github more commands and uses
